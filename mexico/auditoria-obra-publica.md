@@ -1,9 +1,9 @@
 # Auditoría Forense — Obra Pública México
-**Fecha:** 2026-04-30
+**Fecha:** 2026-05-01
 **Motor:** SEPO Forensic Audit Engine v2026
 
 ## Resumen Ejecutivo
-Análisis de riesgos en licitaciones publicadas en CompraNet para el período 2026-04-30.
+Análisis de riesgos en licitaciones publicadas en CompraNet para el período 2026-05-01.
 
 ## Indicadores Clave
 - **Riesgo contractual COCOP:** MEDIO (validación por PERT)
