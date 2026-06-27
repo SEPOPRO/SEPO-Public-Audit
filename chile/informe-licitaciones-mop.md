@@ -1,5 +1,5 @@
 # Informe de Riesgos — Licitaciones MOP Chile
-**Fecha:** 2026-06-26
+**Fecha:** 2026-06-27
 **Motor:** SEPO Forensic Audit Engine v2026
 
 ## Resumen Ejecutivo
