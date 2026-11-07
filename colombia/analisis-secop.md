@@ -1,5 +1,5 @@
 # Análisis de Riesgos — SECOP II Colombia
-**Fecha:** 2026-11-06
+**Fecha:** 2026-11-07
 **Motor:** SEPO Forensic Audit Engine v2026
 
 ## Indicadores SECOP II
